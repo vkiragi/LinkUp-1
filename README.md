@@ -1,17 +1,30 @@
-# Link Up #
+# LinkUp
 
-## Follow the steps below:
+## Description
+This is a social media application designed specifically for students. It allows students to communicate with each other and form groups within their classes. The aim of this project is to facilitate better communication and collaboration among students.
 
-### `cd LinkUp`
-Clone the folder onto local and go into the folder 
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
 
-### `npm install`
-Install all the packages needed
+## Installation
+1. Clone the repo: `git clone https://github.com/your_username/student-social-media-app.git`
+2. Install NPM packages: `npm install`
+3. Run the app: `npm run`
 
-### `npm start` ###
-Run the app
+## Usage
+After installation, you can start the application with `npm start`. The app allows students to create an account, log in, communicate with other students, and form groups within their classes.
 
-Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
+## Screenshots
+Include screenshots or gifs of your project in action. This gives users a visual understanding of what your project does.
+
+## Technologies Used
+- JavaScript
+- HTML
+- CSS
+- React
+
