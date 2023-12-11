@@ -19,9 +19,6 @@ After installation, you can start the application with `npm start`. The app allo
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Screenshots
-Include screenshots or gifs of your project in action. This gives users a visual understanding of what your project does.
-
 ## Technologies Used
 - JavaScript
 - HTML
